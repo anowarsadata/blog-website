@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1744450616973",
+    "title": "Lorem Ipsum",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "Classified",
+    "tags": [
+      "Lorem",
+      "Current"
+    ],
+    "date": "2025-04-12T09:36:56.974Z",
+    "image": "1745053872056.jpg"
+  },
+  {
+    "id": "1745054489168",
+    "title": "Lorem Ipsum2",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "Classified",
+    "tags": [
+      "Lorem",
+      "Current"
+    ],
+    "date": "2025-04-19T09:21:29.168Z",
+    "image": "1745054489121.jpg"
+  },
+  {
+    "id": "1745054670368",
+    "title": "Daily Life",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "Current",
+    "tags": [
+      "Today"
+    ],
+    "date": "2025-04-19T09:24:30.368Z",
+    "image": "1745054670343.jpg"
+  },
+  {
+    "id": "1745054778515",
+    "title": "Next Days",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "Next",
+    "tags": [
+      "Tomorrow"
+    ],
+    "date": "2025-04-19T09:26:18.515Z",
+    "image": "1745060621683.jpg"
+  },
+  {
+    "id": "1745060765936",
+    "title": "Post Of The Day",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "Post",
+    "tags": [
+      "Event",
+      "Blog"
+    ],
+    "date": "2025-04-19T11:06:05.936Z",
+    "image": "1745061000393.jpg"
+  },
+  {
+    "id": "1745061152940",
+    "title": "Up coming days ",
+    "content": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>",
+    "category": "News",
+    "tags": [
+      "Good Days"
+    ],
+    "date": "2025-04-19T11:12:32.940Z",
+    "image": "1745061152904.jpg"
+  }
+]

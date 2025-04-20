@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="/css/admin.css">
+</head>
+<body>
+  <header><h2>Admin Dashboard</h2></header>
+  <div class="container">
+    <a href="/admin/add">+ Add New Post</a> |
+    <a href="/admin/logout">Logout</a>
+    <table>
+      <tr>
+        <th>Title</th>
+        <th>Category</th>
+        <th>Actions</th>
+      </tr>
+      <% posts.forEach(p => { %>
+        <tr>
+          <td><%= p.title %></td>
+          <td><%= p.category %></td>
+          <td>
+            <a href="/admin/edit/<%= p.id %>">Edit</a> |
+            <a href="/admin/delete/<%= p.id %>" onclick="return confirm('Are you sure?')">Delete</a>
+          </td>
+        </tr>
+      <% }) %>
+    </table>
+  </div>
+</body>
+</html>
